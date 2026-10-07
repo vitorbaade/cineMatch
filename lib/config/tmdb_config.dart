@@ -1,7 +1,7 @@
 class TmdbConfig {
   TmdbConfig._();
 
-  static const String apiKey = 'dbf27b67413280ab717f2a03362131d9';
+  static const String apiKey = 'COLOQUE_SUA_CHAVE_DE_API_AQUI';
 
   static const String baseUrl = 'https://api.themoviedb.org/3';
   static const String imageBaseUrl = 'https://image.tmdb.org/t/p/w500';
